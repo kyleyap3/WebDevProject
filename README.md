@@ -1,9 +1,3 @@
-Here’s a **ready‑to‑use README.md** for your GitHub repository that hosts your website at:
-🔗 **[https://kyleyap3.github.io/WebDevProject/](https://kyleyap3.github.io/WebDevProject/)**
-
-You can copy this directly into a file named **README.md** in your repo:
-
----
 
 # 🍳 Taste of Kyle — WebDevProject
 
