@@ -1,7 +1,7 @@
 
 # 🍳 Taste of Kyle — WebDevProject
 
-Welcome to the **Taste of Kyle** website — a personal recipe and profile site built with **HTML** and **CSS**, and hosted live on GitHub Pages! ([GitHub Docs][1])
+Welcome to the **Taste of Kyle** website — a personal recipe and profile site built with **HTML** and **CSS**, and hosted live on GitHub Pages! 
 
 This repository contains all the source files for the site, including pages like **Home**, **About Me**, and individual recipe pages.
 
